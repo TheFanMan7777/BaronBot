@@ -1,0 +1,2 @@
+# BaronBot
+Multifunction Discord Bot
