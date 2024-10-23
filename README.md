@@ -66,23 +66,6 @@ BaronBot is a multi-functional Discord bot designed to enhance your server exper
   - Set the bot status.
   - Usage: `/status type text`
 
-## File Structure
-
-BaronBot/
-├── commands/ # Command files
-│ ├── balance.js # Balance command
-│ ├── transfer.js # Transfer command
-│ ├── work.js # Work command
-│ └── ... # Other commands
-├── temp/ # Temporary folder for image downloads
-├── .env # Environment variables
-├── index.js # Main bot file
-├── package.json # Node.js dependencies and scripts
-├── README.md # This file
-├── warnings.json # Warnings data
-├── economyData.json # Economy data
-└── whitelist.json # Whitelist data
-
 ## Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to discuss your ideas.
